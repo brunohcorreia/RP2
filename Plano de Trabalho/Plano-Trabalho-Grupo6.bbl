@@ -1,0 +1,759 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{ashrafimoghari2024evaluatinglargelanguagemodels}{misc}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=87eed5d923d14a02acea2988535badef}{%
+           family={Ashrafimoghari},
+           familyi={A\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8e09eae0b7e651fe0078cd17e022cc0}{%
+           family={Gürkan},
+           familyi={G\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=746b74c2de260950f604ea6b62bebd9f}{%
+           family={Suchow},
+           familyi={S\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6ae5ec722d6d068c5c0eb7a7aec4288a}
+      \strng{fullhash}{8c457fd2fb6f08091bfcbe1ff340cc4e}
+      \strng{fullhashraw}{8c457fd2fb6f08091bfcbe1ff340cc4e}
+      \strng{bibnamehash}{8c457fd2fb6f08091bfcbe1ff340cc4e}
+      \strng{authorbibnamehash}{8c457fd2fb6f08091bfcbe1ff340cc4e}
+      \strng{authornamehash}{6ae5ec722d6d068c5c0eb7a7aec4288a}
+      \strng{authorfullhash}{8c457fd2fb6f08091bfcbe1ff340cc4e}
+      \strng{authorfullhashraw}{8c457fd2fb6f08091bfcbe1ff340cc4e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{title}{Evaluating large language models on the GMAT: Implications for the future of business education}
+      \field{year}{2024}
+      \verb{eprint}
+      \verb 2401.02985
+      \endverb
+    \endentry
+    \entry{bordt2023chatgptparticipatescomputerscience}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8f7c4fb9865317e5e09099c244c25a3c}{%
+           family={Bordt},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8737045cce6198775415a091489f2b31}{%
+           family={Luxburg},
+           familyi={L\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod},
+           givenun=0,
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{c64433773b6ba6e14e013055e9a014e5}
+      \strng{fullhash}{c64433773b6ba6e14e013055e9a014e5}
+      \strng{fullhashraw}{c64433773b6ba6e14e013055e9a014e5}
+      \strng{bibnamehash}{c64433773b6ba6e14e013055e9a014e5}
+      \strng{authorbibnamehash}{c64433773b6ba6e14e013055e9a014e5}
+      \strng{authornamehash}{c64433773b6ba6e14e013055e9a014e5}
+      \strng{authorfullhash}{c64433773b6ba6e14e013055e9a014e5}
+      \strng{authorfullhashraw}{c64433773b6ba6e14e013055e9a014e5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{title}{Chatgpt participates in a computer science exam}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2303.09461
+      \endverb
+    \endentry
+    \entry{caseli2024processamento}{book}{}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=69866940e693f481f0590dbdb18f2211}{%
+           family={Caseli},
+           familyi={C\bibinitperiod},
+           given={H.\bibnamedelimi M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7011f1449cb822ca4cad1caf55ac741}{%
+           family={Nunes},
+           familyi={N\bibinitperiod},
+           given={M.\bibnamedelimi G.\bibnamedelimi V.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {BPLN}%
+      }
+      \strng{namehash}{926499003c5609ba8f05a7efc7f2fdb7}
+      \strng{fullhash}{926499003c5609ba8f05a7efc7f2fdb7}
+      \strng{fullhashraw}{926499003c5609ba8f05a7efc7f2fdb7}
+      \strng{bibnamehash}{926499003c5609ba8f05a7efc7f2fdb7}
+      \strng{editorbibnamehash}{926499003c5609ba8f05a7efc7f2fdb7}
+      \strng{editornamehash}{926499003c5609ba8f05a7efc7f2fdb7}
+      \strng{editorfullhash}{926499003c5609ba8f05a7efc7f2fdb7}
+      \strng{editorfullhashraw}{926499003c5609ba8f05a7efc7f2fdb7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português}
+      \field{year}{2024}
+    \endentry
+    \entry{kung2023performance}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=0752c6f39a22ecc58089effcbb6ed3b8}{%
+           family={Kung},
+           familyi={K\bibinitperiod},
+           given={T.\bibnamedelimi H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c5050b886cf0b82f4baee4bee69ead7}{%
+           family={Cheatham},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ccb25f6f9d25cb4550f8ed7766d74cb1}{%
+           family={Medenilla},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31b12af1296acb8e2733623826db5baf}{%
+           family={Sillos},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f85de779fd70c8801e33196bc3b5daf}{%
+           family={De\bibnamedelima Leon},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f33fff1a76ccf2068d5d56203998eec}{%
+           family={Elepaño},
+           familyi={E\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{d7fe3bb312d58ff45293e23a9cc2f260}
+      \strng{fullhash}{d69d3c7bc160f5a3c5db86723d91a97e}
+      \strng{fullhashraw}{d69d3c7bc160f5a3c5db86723d91a97e}
+      \strng{bibnamehash}{d69d3c7bc160f5a3c5db86723d91a97e}
+      \strng{authorbibnamehash}{d69d3c7bc160f5a3c5db86723d91a97e}
+      \strng{authornamehash}{d7fe3bb312d58ff45293e23a9cc2f260}
+      \strng{authorfullhash}{d69d3c7bc160f5a3c5db86723d91a97e}
+      \strng{authorfullhashraw}{d69d3c7bc160f5a3c5db86723d91a97e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLOS Digit Health}
+      \field{number}{2}
+      \field{title}{Performance of ChatGPT on USMLE: potential for AI-assisted medical education using large language models}
+      \field{volume}{2}
+      \field{year}{2023}
+      \field{pages}{e0000198}
+      \range{pages}{-1}
+    \endentry
+    \entry{sbsi}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ce1c7e410e3f950124c5076185214caa}{%
+           family={Saldanha},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=250b110957fd14c771fc52e4f3c61372}{%
+           family={Digiampietri},
+           familyi={D\bibinitperiod},
+           given={L.\bibnamedelimi A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9632881ba750aa6469597eb317f1b748}
+      \strng{fullhash}{9632881ba750aa6469597eb317f1b748}
+      \strng{fullhashraw}{9632881ba750aa6469597eb317f1b748}
+      \strng{bibnamehash}{9632881ba750aa6469597eb317f1b748}
+      \strng{authorbibnamehash}{9632881ba750aa6469597eb317f1b748}
+      \strng{authornamehash}{9632881ba750aa6469597eb317f1b748}
+      \strng{authorfullhash}{9632881ba750aa6469597eb317f1b748}
+      \strng{authorfullhashraw}{9632881ba750aa6469597eb317f1b748}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 20th Brazilian Symposium on Information Systems}
+      \field{month}{5}
+      \field{title}{ChatGPT and Bard Performance on the POSCOMP Exam}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+    \endentry
+    \entry{vaswani2023attentionneed}{misc}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=dd8654367c923279fc35fe561acfbf40}{%
+           family={Vaswani},
+           familyi={V\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=abdbd208c433bc733dca7a571a7e912d}{%
+           family={Shazeer},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc812302a6c6b2c755bb485756f4ea59}{%
+           family={Parmar},
+           familyi={P\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31fd5b4ba57910f2b387b8e2ac465db9}{%
+           family={Uszkoreit},
+           familyi={U\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39b701b10f089b6b5ccf6776adb4c595}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e9f181f0d7d081024cf247b38c44a76}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={A.\bibnamedelimi N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3411e83fb4cbfd0ba7b2e049267087bb}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e373d6f9d11d73cda8e64a41ed65a1ec}{%
+           family={Polosukhin},
+           familyi={P\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8fcf8c16f56e86ff4983fb2c5cad59e1}
+      \strng{fullhash}{be735b36a509d9741e9de0f5b79a4225}
+      \strng{fullhashraw}{be735b36a509d9741e9de0f5b79a4225}
+      \strng{bibnamehash}{be735b36a509d9741e9de0f5b79a4225}
+      \strng{authorbibnamehash}{be735b36a509d9741e9de0f5b79a4225}
+      \strng{authornamehash}{8fcf8c16f56e86ff4983fb2c5cad59e1}
+      \strng{authorfullhash}{be735b36a509d9741e9de0f5b79a4225}
+      \strng{authorfullhashraw}{be735b36a509d9741e9de0f5b79a4225}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{title}{Attention Is All You Need}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 1706.03762
+      \endverb
+    \endentry
+    \entry{weizenbaum1966eliza}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=32a5099050b186567432d831df9a84a8}{%
+           family={Weizenbaum},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{32a5099050b186567432d831df9a84a8}
+      \strng{fullhash}{32a5099050b186567432d831df9a84a8}
+      \strng{fullhashraw}{32a5099050b186567432d831df9a84a8}
+      \strng{bibnamehash}{32a5099050b186567432d831df9a84a8}
+      \strng{authorbibnamehash}{32a5099050b186567432d831df9a84a8}
+      \strng{authornamehash}{32a5099050b186567432d831df9a84a8}
+      \strng{authorfullhash}{32a5099050b186567432d831df9a84a8}
+      \strng{authorfullhashraw}{32a5099050b186567432d831df9a84a8}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{number}{1}
+      \field{title}{ELIZA---A Computer Program For the Study of Natural Language Communication Between Man and Machine}
+      \field{volume}{9}
+      \field{year}{1966}
+      \field{pages}{36\bibrangedash 45}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/365153.365168
+      \endverb
+    \endentry
+    \entry{zhao2023survey}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=53d3e1089d21e1f49ebc6178cee592c0}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={W.\bibnamedelimi X.\bibnamedelimi et\bibnamedelima al.},
+           giveni={W\bibinitperiod\bibinitdelim X\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{53d3e1089d21e1f49ebc6178cee592c0}
+      \strng{fullhash}{53d3e1089d21e1f49ebc6178cee592c0}
+      \strng{fullhashraw}{53d3e1089d21e1f49ebc6178cee592c0}
+      \strng{bibnamehash}{53d3e1089d21e1f49ebc6178cee592c0}
+      \strng{authorbibnamehash}{53d3e1089d21e1f49ebc6178cee592c0}
+      \strng{authornamehash}{53d3e1089d21e1f49ebc6178cee592c0}
+      \strng{authorfullhash}{53d3e1089d21e1f49ebc6178cee592c0}
+      \strng{authorfullhashraw}{53d3e1089d21e1f49ebc6178cee592c0}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{title}{A Survey of Large Language Models}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2303.18223
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{ashrafimoghari2024evaluatinglargelanguagemodels}{misc}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=87eed5d923d14a02acea2988535badef}{%
+           family={Ashrafimoghari},
+           familyi={A\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8e09eae0b7e651fe0078cd17e022cc0}{%
+           family={Gürkan},
+           familyi={G\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=746b74c2de260950f604ea6b62bebd9f}{%
+           family={Suchow},
+           familyi={S\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6ae5ec722d6d068c5c0eb7a7aec4288a}
+      \strng{fullhash}{8c457fd2fb6f08091bfcbe1ff340cc4e}
+      \strng{fullhashraw}{8c457fd2fb6f08091bfcbe1ff340cc4e}
+      \strng{bibnamehash}{8c457fd2fb6f08091bfcbe1ff340cc4e}
+      \strng{authorbibnamehash}{8c457fd2fb6f08091bfcbe1ff340cc4e}
+      \strng{authornamehash}{6ae5ec722d6d068c5c0eb7a7aec4288a}
+      \strng{authorfullhash}{8c457fd2fb6f08091bfcbe1ff340cc4e}
+      \strng{authorfullhashraw}{8c457fd2fb6f08091bfcbe1ff340cc4e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{title}{Evaluating large language models on the GMAT: Implications for the future of business education}
+      \field{year}{2024}
+      \verb{eprint}
+      \verb 2401.02985
+      \endverb
+    \endentry
+    \entry{bordt2023chatgptparticipatescomputerscience}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8f7c4fb9865317e5e09099c244c25a3c}{%
+           family={Bordt},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8737045cce6198775415a091489f2b31}{%
+           family={Luxburg},
+           familyi={L\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod},
+           givenun=0,
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{c64433773b6ba6e14e013055e9a014e5}
+      \strng{fullhash}{c64433773b6ba6e14e013055e9a014e5}
+      \strng{fullhashraw}{c64433773b6ba6e14e013055e9a014e5}
+      \strng{bibnamehash}{c64433773b6ba6e14e013055e9a014e5}
+      \strng{authorbibnamehash}{c64433773b6ba6e14e013055e9a014e5}
+      \strng{authornamehash}{c64433773b6ba6e14e013055e9a014e5}
+      \strng{authorfullhash}{c64433773b6ba6e14e013055e9a014e5}
+      \strng{authorfullhashraw}{c64433773b6ba6e14e013055e9a014e5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{title}{Chatgpt participates in a computer science exam}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2303.09461
+      \endverb
+    \endentry
+    \entry{caseli2024processamento}{book}{}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=69866940e693f481f0590dbdb18f2211}{%
+           family={Caseli},
+           familyi={C\bibinitperiod},
+           given={H.\bibnamedelimi M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7011f1449cb822ca4cad1caf55ac741}{%
+           family={Nunes},
+           familyi={N\bibinitperiod},
+           given={M.\bibnamedelimi G.\bibnamedelimi V.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {BPLN}%
+      }
+      \strng{namehash}{926499003c5609ba8f05a7efc7f2fdb7}
+      \strng{fullhash}{926499003c5609ba8f05a7efc7f2fdb7}
+      \strng{fullhashraw}{926499003c5609ba8f05a7efc7f2fdb7}
+      \strng{bibnamehash}{926499003c5609ba8f05a7efc7f2fdb7}
+      \strng{editorbibnamehash}{926499003c5609ba8f05a7efc7f2fdb7}
+      \strng{editornamehash}{926499003c5609ba8f05a7efc7f2fdb7}
+      \strng{editorfullhash}{926499003c5609ba8f05a7efc7f2fdb7}
+      \strng{editorfullhashraw}{926499003c5609ba8f05a7efc7f2fdb7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português}
+      \field{year}{2024}
+    \endentry
+    \entry{kung2023performance}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=0752c6f39a22ecc58089effcbb6ed3b8}{%
+           family={Kung},
+           familyi={K\bibinitperiod},
+           given={T.\bibnamedelimi H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c5050b886cf0b82f4baee4bee69ead7}{%
+           family={Cheatham},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ccb25f6f9d25cb4550f8ed7766d74cb1}{%
+           family={Medenilla},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31b12af1296acb8e2733623826db5baf}{%
+           family={Sillos},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f85de779fd70c8801e33196bc3b5daf}{%
+           family={De\bibnamedelima Leon},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f33fff1a76ccf2068d5d56203998eec}{%
+           family={Elepaño},
+           familyi={E\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{d7fe3bb312d58ff45293e23a9cc2f260}
+      \strng{fullhash}{d69d3c7bc160f5a3c5db86723d91a97e}
+      \strng{fullhashraw}{d69d3c7bc160f5a3c5db86723d91a97e}
+      \strng{bibnamehash}{d69d3c7bc160f5a3c5db86723d91a97e}
+      \strng{authorbibnamehash}{d69d3c7bc160f5a3c5db86723d91a97e}
+      \strng{authornamehash}{d7fe3bb312d58ff45293e23a9cc2f260}
+      \strng{authorfullhash}{d69d3c7bc160f5a3c5db86723d91a97e}
+      \strng{authorfullhashraw}{d69d3c7bc160f5a3c5db86723d91a97e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLOS Digit Health}
+      \field{number}{2}
+      \field{title}{Performance of ChatGPT on USMLE: potential for AI-assisted medical education using large language models}
+      \field{volume}{2}
+      \field{year}{2023}
+      \field{pages}{e0000198}
+      \range{pages}{-1}
+    \endentry
+    \entry{sbsi}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ce1c7e410e3f950124c5076185214caa}{%
+           family={Saldanha},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=250b110957fd14c771fc52e4f3c61372}{%
+           family={Digiampietri},
+           familyi={D\bibinitperiod},
+           given={L.\bibnamedelimi A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9632881ba750aa6469597eb317f1b748}
+      \strng{fullhash}{9632881ba750aa6469597eb317f1b748}
+      \strng{fullhashraw}{9632881ba750aa6469597eb317f1b748}
+      \strng{bibnamehash}{9632881ba750aa6469597eb317f1b748}
+      \strng{authorbibnamehash}{9632881ba750aa6469597eb317f1b748}
+      \strng{authornamehash}{9632881ba750aa6469597eb317f1b748}
+      \strng{authorfullhash}{9632881ba750aa6469597eb317f1b748}
+      \strng{authorfullhashraw}{9632881ba750aa6469597eb317f1b748}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 20th Brazilian Symposium on Information Systems}
+      \field{month}{5}
+      \field{title}{ChatGPT and Bard Performance on the POSCOMP Exam}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+    \endentry
+    \entry{vaswani2023attentionneed}{misc}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=dd8654367c923279fc35fe561acfbf40}{%
+           family={Vaswani},
+           familyi={V\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=abdbd208c433bc733dca7a571a7e912d}{%
+           family={Shazeer},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc812302a6c6b2c755bb485756f4ea59}{%
+           family={Parmar},
+           familyi={P\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31fd5b4ba57910f2b387b8e2ac465db9}{%
+           family={Uszkoreit},
+           familyi={U\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39b701b10f089b6b5ccf6776adb4c595}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e9f181f0d7d081024cf247b38c44a76}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={A.\bibnamedelimi N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3411e83fb4cbfd0ba7b2e049267087bb}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e373d6f9d11d73cda8e64a41ed65a1ec}{%
+           family={Polosukhin},
+           familyi={P\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8fcf8c16f56e86ff4983fb2c5cad59e1}
+      \strng{fullhash}{be735b36a509d9741e9de0f5b79a4225}
+      \strng{fullhashraw}{be735b36a509d9741e9de0f5b79a4225}
+      \strng{bibnamehash}{be735b36a509d9741e9de0f5b79a4225}
+      \strng{authorbibnamehash}{be735b36a509d9741e9de0f5b79a4225}
+      \strng{authornamehash}{8fcf8c16f56e86ff4983fb2c5cad59e1}
+      \strng{authorfullhash}{be735b36a509d9741e9de0f5b79a4225}
+      \strng{authorfullhashraw}{be735b36a509d9741e9de0f5b79a4225}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{title}{Attention Is All You Need}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 1706.03762
+      \endverb
+    \endentry
+    \entry{weizenbaum1966eliza}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=32a5099050b186567432d831df9a84a8}{%
+           family={Weizenbaum},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{32a5099050b186567432d831df9a84a8}
+      \strng{fullhash}{32a5099050b186567432d831df9a84a8}
+      \strng{fullhashraw}{32a5099050b186567432d831df9a84a8}
+      \strng{bibnamehash}{32a5099050b186567432d831df9a84a8}
+      \strng{authorbibnamehash}{32a5099050b186567432d831df9a84a8}
+      \strng{authornamehash}{32a5099050b186567432d831df9a84a8}
+      \strng{authorfullhash}{32a5099050b186567432d831df9a84a8}
+      \strng{authorfullhashraw}{32a5099050b186567432d831df9a84a8}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{number}{1}
+      \field{title}{ELIZA---A Computer Program For the Study of Natural Language Communication Between Man and Machine}
+      \field{volume}{9}
+      \field{year}{1966}
+      \field{pages}{36\bibrangedash 45}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/365153.365168
+      \endverb
+    \endentry
+    \entry{zhao2023survey}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=53d3e1089d21e1f49ebc6178cee592c0}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={W.\bibnamedelimi X.\bibnamedelimi et\bibnamedelima al.},
+           giveni={W\bibinitperiod\bibinitdelim X\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{53d3e1089d21e1f49ebc6178cee592c0}
+      \strng{fullhash}{53d3e1089d21e1f49ebc6178cee592c0}
+      \strng{fullhashraw}{53d3e1089d21e1f49ebc6178cee592c0}
+      \strng{bibnamehash}{53d3e1089d21e1f49ebc6178cee592c0}
+      \strng{authorbibnamehash}{53d3e1089d21e1f49ebc6178cee592c0}
+      \strng{authornamehash}{53d3e1089d21e1f49ebc6178cee592c0}
+      \strng{authorfullhash}{53d3e1089d21e1f49ebc6178cee592c0}
+      \strng{authorfullhashraw}{53d3e1089d21e1f49ebc6178cee592c0}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{title}{A Survey of Large Language Models}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2303.18223
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

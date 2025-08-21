@@ -1,0 +1,21 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'Plano-Trabalho-Grupo6.blg'
+[304] biber-MSWIN64:342> INFO - === 
+[398] Biber.pm:421> INFO - Reading 'Plano-Trabalho-Grupo6.bcf'
+[730] Biber.pm:1002> INFO - Found 8 citekeys in bib section 0
+[863] Biber.pm:4487> INFO - Processing section 0
+[917] Biber.pm:4678> INFO - Looking for bibtex file 'references.bib' for section 0
+[1038] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1061] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[1258] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1259] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1259] Biber.pm:4307> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[1260] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[1321] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1321] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1322] Biber.pm:4307> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[1322] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[1343] bbl.pm:676> INFO - Writing 'Plano-Trabalho-Grupo6.bbl' with encoding 'UTF-8'
+[1383] bbl.pm:779> INFO - Output to Plano-Trabalho-Grupo6.bbl
+[1384] Biber.pm:132> WARN - legacy month field 'May' in entry 'sbsi' is not an integer - this will probably not sort properly.
+[1385] Biber.pm:134> INFO - WARNINGS: 1
